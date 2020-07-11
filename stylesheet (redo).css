@@ -1,0 +1,46 @@
+h1{font-family: arial, sans-serif;
+	text-align: center;
+}
+body {
+	background-color: #9cdbd0;
+	font-size: 20px;
+	font-family: arial, sans-serif;
+	text-align: center;
+	margin: auto;
+} 	  
+.center {	
+  margin: auto;
+  width: 100%;
+  border: 1px #fff;
+  background-color: white;
+  padding-top: 30px;
+  padding-right: 50px;
+  padding-bottom: 1000px;
+  padding-left: 70px;
+  width:1000px;
+  margin: auto;
+}	
+.flex {
+	display: flex;
+	justify-content: center;
+	
+} 
+
+.a{
+	width: 20%;
+}
+.dropdown {
+	width: 20%
+}
+.Radio-buttons {
+	width: 20%;
+}
+.selection {
+	width: 20%;
+}
+.Checkbox {
+	width: 20%;
+}
+.flex span{
+    width:50;
+}
